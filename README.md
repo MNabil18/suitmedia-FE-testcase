@@ -5,7 +5,7 @@ NAMA   : MUHAMMAD NABIL INDIHARTO
 POSISI : FRONTEND DEVELOPER - INTERN
 ```
 
-Url gitlab repository = https://gitlab.com/MNabil18/suitmedia-FE-testcase/-/tree/40659a43b879b8cda40427097aae7c184416a9ca/  
+Url gitlab repository = https://gitlab.com/MNabil18/suitmedia-FE-testcase/-/tree/40659a43b879b8cda40427097aae7c184416a9ca/    
 Url github repository = https://github.com/MNabil18/suitmedia-FE-testcase.git  
 Url deployment = https://muhammad-nabil-suitmedia-fe.vercel.app/  
 
