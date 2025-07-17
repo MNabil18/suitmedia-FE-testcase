@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+## PROJECT TEST FRONTEND DEVELOPER INTERN KAMPUS MERDEKA BATCH 6
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```
+NAMA   : MUHAMMAD NABIL INDIHARTO
+POSISI : FRONTEND DEVELOPER - INTERN
+```
+
+Url gitlab repository = https://gitlab.com/MNabil18/suitmedia-FE-testcase/-/tree/40659a43b879b8cda40427097aae7c184416a9ca/
+Url github repository = 
+Url deployment = https://muhammad-nabil-suitmedia-fe.vercel.app/
 
 ## Available Scripts
 
